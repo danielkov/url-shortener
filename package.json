@@ -1,0 +1,24 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "Takes a URL and turns stores it on the server for access and redirect.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielkov/url-shortener.git"
+  },
+  "keywords": [
+    "url",
+    "uri",
+    "shortener"
+  ],
+  "author": "Daniel Kovacs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielkov/url-shortener/issues"
+  },
+  "homepage": "https://github.com/danielkov/url-shortener#readme"
+}
