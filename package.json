@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/danielkov/url-shortener/issues"
   },
-  "homepage": "https://github.com/danielkov/url-shortener#readme"
+  "homepage": "https://github.com/danielkov/url-shortener#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "helmet": "^2.1.1",
+    "mongoose": "^4.5.4"
+  }
 }
